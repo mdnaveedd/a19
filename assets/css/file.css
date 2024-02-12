@@ -1,0 +1,92 @@
+.c-image {
+    background-size: cover; 
+    height: 60vh;
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border:rgb(164, 212, 236)
+}
+.main-heading {
+    text-align: center;
+    text-decoration: wavy;
+    color: rgb(11, 7, 30);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.main-caption {
+    text-align: center;
+    text-decoration: wavy;
+    color: rgb(11, 7, 30);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 100px; 
+}
+
+.memories-heading {
+    text-align: center;
+    color: rgb(5, 5, 5);
+    background-color: rgb(212, 244, 233);
+    background-size: cover;
+    height: cover;
+    font-size: 30px;
+    font-family: Lucida;
+    font-weight: lighter;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+.memories-card {
+    padding-top: 15px;
+    background-size: cover; 
+    width: 100%;
+} 
+
+.image-card {
+    background-color: rgb(22, 35, 35);
+    height: 45vh;
+    border-radius: 10px;
+    width: 80%;
+}
+
+.card-image {
+    background-image: url("../images/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand.jpg");
+    width: 100%;
+    height: 45vh;
+    border-radius: 10px;
+}
+
+.m-heading {
+    color: rgb(38, 88, 206);
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 3rem;
+
+}
+
+.m-caption {
+    color: rgb(78, 70, 116);
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: cursive;
+    font-size: 1rem;
+}
+
+.current-tours-card {
+    background-color: aquamarine;
+    height: cover;
+    width: 100;
+    border: solid;
+}
+
+.ctours-inner-card {
+    background-color: rgb(27, 41, 36);
+    height: 45vh;
+    width: 35vh;
+    border: solid;
+    margin-right: 30px;
+}
